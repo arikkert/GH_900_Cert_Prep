@@ -1,0 +1,13 @@
+{
+  "name": "gh-900-demo",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.vscode-pull-request-github"
+      ]
+    }
+  },
+  "postCreateCommand": "echo 'Codespace ready'"
+}
