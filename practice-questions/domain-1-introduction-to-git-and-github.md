@@ -7,10 +7,10 @@
 
 A developer says they can collaborate on a repo without internet access because they use Git. Which statement is correct?
 
-- A. Git requires GitHub for all operations
-- B. Git can track history locally without GitHub
-- C. GitHub is the version control engine
-- D. Git is only for cloud-hosted repos
+A. Git requires GitHub for all operations  
+B. Git can track history locally without GitHub  
+C. GitHub is the version control engine  
+D. Git is only for cloud-hosted repos  
 
 <details>
 <summary>Answer</summary>
