@@ -1,9 +1,9 @@
 # Practice Questions - Domain 2 (Working with GitHub Repositories)
 
 ### Question 1
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: Merge Strategies
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: Merge Strategies  
+**Difficulty**: Beginner  
 
 A team wants a clean linear history and a single commit per PR. Which merge method should they use?
 
@@ -23,9 +23,9 @@ D. Fast-forward only
 </details>
 
 ### Question 2
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: Releases and Tags
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: Releases and Tags  
+**Difficulty**: Beginner  
 
 Which item is required to publish a GitHub release?
 
@@ -45,9 +45,9 @@ D. A discussion
 </details>
 
 ### Question 3
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: Markdown Details
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: Markdown Details  
+**Difficulty**: Beginner  
 
 Which syntax creates a collapsible section?
 
@@ -67,9 +67,9 @@ D. `[[collapse]]`
 </details>
 
 ### Question 4
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: Wiki
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: Wiki  
+**Difficulty**: Beginner  
 
 Who can edit a repository wiki by default?
 
@@ -89,9 +89,9 @@ D. Only organization owners
 </details>
 
 ### Question 5
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: Gist
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: Gist  
+**Difficulty**: Beginner  
 
 Which statement about secret gists is correct?
 
@@ -111,9 +111,9 @@ D. Secret gists require GitHub Enterprise
 </details>
 
 ### Question 6
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: Compare View
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: Compare View  
+**Difficulty**: Beginner  
 
 Which GitHub feature shows differences between branches or commits?
 
@@ -133,9 +133,9 @@ D. Actions
 </details>
 
 ### Question 7
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: File History
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: File History  
+**Difficulty**: Beginner  
 
 What GitHub UI feature helps identify who last changed a line?
 
@@ -155,9 +155,9 @@ D. Wiki
 </details>
 
 ### Question 8
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: Merge Conflicts
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: Merge Conflicts  
+**Difficulty**: Beginner  
 
 Where can simple merge conflicts be resolved without leaving GitHub?
 
@@ -177,9 +177,9 @@ D. GitHub Packages
 </details>
 
 ### Question 9
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: Release Assets
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: Release Assets  
+**Difficulty**: Beginner  
 
 Which feature allows uploading binaries for a release?
 
@@ -199,9 +199,9 @@ D. Project fields
 </details>
 
 ### Question 10
-**Domain**: Domain 2 - Working with GitHub Repositories
-**Topic**: Markdown Tables
-**Difficulty**: Beginner
+**Domain**: Domain 2 - Working with GitHub Repositories  
+**Topic**: Markdown Tables  
+**Difficulty**: Beginner  
 
 Which is valid table syntax in GitHub Markdown?
 
