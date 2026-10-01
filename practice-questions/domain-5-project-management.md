@@ -107,7 +107,7 @@ D. Code frequency
 
 **Explanation:** Traffic provides views, clones, and referrers.
 
-**Reference:** https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-a-repositorys-network
+**Reference:** https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository
 </details>
 
 ### Question 6
