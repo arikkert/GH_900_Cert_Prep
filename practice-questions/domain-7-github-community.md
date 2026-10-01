@@ -139,7 +139,7 @@ D. Packaging releases
 
 Which item is typically included in a README?
 
-A. Billing details 
+A. Billing details  
 B. Project overview and usage instructions  
 C. Audit log export  
 D. Runner registration tokens  
