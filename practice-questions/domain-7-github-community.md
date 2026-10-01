@@ -173,7 +173,7 @@ D. package.json
 
 **Explanation:** CONTRIBUTING.md is a community health file.
 
-**Reference:** https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-health-files
+**Reference:** https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
 </details>
 
 ### Question 9
