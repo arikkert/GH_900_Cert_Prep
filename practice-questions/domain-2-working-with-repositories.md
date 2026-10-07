@@ -129,7 +129,7 @@ D. Actions
 
 **Explanation:** Compare view displays differences between branches or commits.
 
-**Reference:** https://docs.github.com/en/pull-requests/how-tos/commit-changes/comparing-commits#comparing-branches
+**Reference:** https://docs.github.com/en/pull-requests/how-tos/commit-changes/comparing-commits
 </details>
 
 ### Question 7
