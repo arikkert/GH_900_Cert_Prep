@@ -151,7 +151,7 @@ D. Wiki
 
 **Explanation:** Blame view shows line-by-line commit history.
 
-**Reference:** https://docs.github.com/en/repositories/working-with-files/using-files/tracing-changes-in-a-file
+**Reference:** https://docs.github.com/en/repositories/working-with-files/using-files/viewing-and-understanding-files#viewing-the-line-by-line-revision-history-for-a-file
 </details>
 
 ### Question 8
