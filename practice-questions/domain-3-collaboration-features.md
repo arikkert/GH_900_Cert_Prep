@@ -85,7 +85,7 @@ D. Starts a workflow
 
 **Explanation:** Mentions notify users or teams.
 
-**Reference:** https://docs.github.com/en/organizations/organizing-members-into-teams/mentioning-teams-and-people
+**Reference:** https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams#team-visibility
 </details>
 
 ### Question 5
