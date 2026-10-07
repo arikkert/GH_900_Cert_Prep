@@ -151,7 +151,7 @@ D. Store secrets
 
 **Explanation:** Labels are used to categorize and triage work items.
 
-**Reference:** https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-labels
+**Reference:** https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels#about-labels
 </details>
 
 ### Question 8
